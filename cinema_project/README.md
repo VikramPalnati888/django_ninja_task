@@ -8,7 +8,7 @@ listing movies based on their rank, and updating movie rankings asynchronously.
 3. install requirements: pip install requirements.txt
 4.Create and apply database migrations: python manage.py makemigrations and python manage.py migrate.
 4. Run the Django development server: python manage.py runserver.
-5. Access the APIs at http://127.0.0.1:8000/api/.
+5. Access the APIs at http://127.0.0.1:8000/api/movies.
 
 
 
